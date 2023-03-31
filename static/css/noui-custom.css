@@ -1,0 +1,18 @@
+#slider .noUi-connect {
+    background: #009688;
+}
+#slider .noUi-connects {
+    background-color: gray;
+}
+#slider .noUi-tooltip {
+    display: none;
+}
+
+
+#slider .noUi-handle {
+    border-radius: none;
+    box-shadow: none;
+    border:1px solid gray;
+    outline: none;
+
+}
